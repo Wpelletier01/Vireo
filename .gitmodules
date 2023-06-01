@@ -1,0 +1,3 @@
+[submodule "vireo-backend"]
+	path = vireo-backend
+	url = https://github.com/Wpelletier01/vireo-backend.git
