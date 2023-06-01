@@ -1,3 +1,6 @@
 [submodule "vireo-backend"]
 	path = vireo-backend
 	url = https://github.com/Wpelletier01/vireo-backend.git
+[submodule "vireo-client"]
+	path = vireo-client
+	url = https://github.com/Wpelletier01/vireo-client.git
